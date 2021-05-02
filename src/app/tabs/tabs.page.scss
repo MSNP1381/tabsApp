@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: 'IRANYekan';
+  font-weight: normal;
+  src: url("/src/assets/fonts/iranyekanwebregular.ttf");
+}
+ion-label{font-family: IRANYekan}
+ion-tab-button
+{
+  --color: #717171;
+  --color-selected:#FCC314;
+  --ripple-color:#FCC314;
+}
